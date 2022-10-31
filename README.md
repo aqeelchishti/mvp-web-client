@@ -1,4 +1,4 @@
-# Work in progress
+# Fantasy Battle Royale game's website
 ### The base website for our upcoming Web3 Fantasy Battle Royale game's website
 
 ## Developing
